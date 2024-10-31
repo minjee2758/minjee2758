@@ -25,7 +25,11 @@ Here are some ideas to get you started:
 
 <h3>✨ Tech Stack ✨</h3>
 <div>
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/typeScript-3178C6?style=flat&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+<img src ="https://img.shields.io/badge/typeScript-3178C6?style=flat&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white">
+
 </div>
 
 <h3>🛠 Tools 🛠</h3>
