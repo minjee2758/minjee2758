@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 
 
-🏫 A student in <span>the Department of ICT Convergence </span>at Hanyang University <br/>
+🏫 Senior student in <span>the Department of ICT Convergence </span>at Hanyang University <br/>
 💪 The Team leader of the startup club 참죠스 in Hanyang University <br/>
-👩‍💻 Front End Developer <br/>
+👩‍💻 Front-End Developer <br/>
 🩵 Interested in UI/UX Design
 </div>
 
