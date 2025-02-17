@@ -1,6 +1,7 @@
+<!--
 <h1>Hello 👋💫</h1> 
 
-<!--
+
 **minjee2758/minjee2758** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-
+<!--
 🏫 Senior student in <span>the Department of ICT Convergence </span>at Hanyang University <br/>
 💪 The Team leader of the startup club 참죠스 in Hanyang University <br/>
 👩‍💻 Front-End Developer <br/>
@@ -39,4 +40,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 
 </div>
-
+-->
